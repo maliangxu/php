@@ -1,0 +1,7 @@
+creatDbAndTable：创建数据库和数据表
+//先运行这个.php文件，才可以创建好所需要的数据库和数据表，否则接下来的操作都无法进行
+insert:插入数据
+delete:删除数据
+update:更新数据
+query:查找数据
+select:显示所有数据
